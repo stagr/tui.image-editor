@@ -26,10 +26,12 @@
   },
   "devDependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "webpack-cli": "^5.1.4"
   },
   "dependencies": {
     "fabric": "^4.2.0",
-    "tui-image-editor": "^3.15.2"
+    "tui-image-editor": "^3.15.2",
+    "webpack": "^5.88.2"
   }
 }
